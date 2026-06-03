@@ -1,4 +1,4 @@
- Zabbix-AI-NOC-Assistant
+## Zabbix-AI-NOC-Assistant
 AI-powered alert analysis and incident summarization for Zabbix.
 
 ## Features
@@ -10,7 +10,7 @@ AI-powered alert analysis and incident summarization for Zabbix.
 - SQLite event history
 - Incident summarization
 - Fully self-hosted
-- 
+
 ## Stack
 
 - Python
